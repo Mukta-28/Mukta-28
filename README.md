@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Mukta Wagh a passionate developer who loves building impactful, user-friendly, and efficient software solutions.<br>💻 Skilled in Java, Spring Boot, React.js, and MySQL<br>⚡ Interested in full-stack development, API design, and performance optimization<br>📚 Constantly learning new technologies and improving problem-solving skills<br>🚀 Currently working on: Vanaspati :Online plant nursery.<br>📫 Reach me at: mukta3725@gmail.com<br><br>“First, solve the problem. Then, write the code.” 
+Hi, I’m Mukta Wagh a passionate developer who loves building impactful, user-friendly, and efficient software solutions.<br>💻 Skilled in Java, Spring Boot, React.js, and MySQL<br>⚡ Interested in full-stack development, API design, and performance optimization<br>📚 Constantly learning new technologies and improving problem-solving skills<br>🚀 Currently working on: Vanaspati :Online plant nursery.<br>📫 Reach me at: mukta3725@gmail.com<br><br>“First, solve the problem. Then, write the code.”  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukta-wagh/)
